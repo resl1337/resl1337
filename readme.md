@@ -62,8 +62,8 @@ I’ve built systems with:
 If you’re a **cheat dev**, **reseller**, or need **any custom web application** —  
 I’ll bring your vision to life with **precision, speed, and style**.  
 
-📧 **Email:** your@email.com  
-💬 **Discord:** yourdiscordtag  
+📧 **Email:** david@resldavid.cz
+💬 **Discord:** hextrace 
 
 ---
 
